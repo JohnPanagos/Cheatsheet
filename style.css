@@ -1,0 +1,46 @@
+html {
+        background: url(pexels-padrinan-255379.jpg) no-repeat center fixed;
+    
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: white ;
+    background-blend-mode:color-burn;
+  }
+  
+  h1 {
+    text-align: center;
+    color: aqua;
+  }
+  
+  h2 {
+    color: blueviolet;
+    text-align: center;
+  }
+  
+  table {
+    border: 2px solid darkorchid;
+    width: 650px;
+    margin: 0 auto;
+  }
+  
+  thead {
+    background: rgb(255,0,28);
+    background: linear-gradient(90deg, rgba(255,0,28,1) 2%, rgba(247,5,251,1) 71%, rgba(122,30,96,1) 100%);;
+  }
+  
+  td {
+    border-top: 1px solid darkorchid;
+    color: purple;
+    font-weight: bold;
+  }
+  
+  .code {
+    font-family: monospace;
+    background-color: beige;
+  }
+
+  th {
+    color: white;
+  }
